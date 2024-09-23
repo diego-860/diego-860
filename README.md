@@ -49,9 +49,8 @@ My journey within the tech industry has led me to develop a passion for the clou
 </div>
 
 ## Projects
-- Deploying a full Linux Server
+- Linux Projects
 - Python Projects
-- Pi-Hole & Wordpress using Podman
-- Deploying local and remote Docker containers
-- Kubernetes Lab
-- Automation with Ansible
+- Container Projects
+- Cloud Projects
+- Monitoring Projects
