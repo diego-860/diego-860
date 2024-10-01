@@ -11,8 +11,8 @@ My journey within the tech industry has led me to develop a passion for the clou
 
 | Skill                                                                   | Associated Project                                               |
 |-------------------------------------------------------------------------|------------------------------------------------------------------|
-| Linux Server Deployment (VPS, DNS, Web, PHP, MySQL, Wordpress)          | <a href="https://google.com">Deploying a full Linux Server</a>   |
-| Python Programming                                                      | <a href="https://google.com">Python Projects</a>                 |
+| Linux Web Server Deployment                    | <a href="https://github.com/diego-860/Patriots-Web-Page">Deploying a full Linux Server</a>|
+| Python Programming                                          | <a href="https://github.com/diego-860/100-Days-of-Python">Python Projects</a>|
 | Container and pod deployment (Pi-Hole & Static Web Page)                | <a href="https://google.com">Pi-Hole & Wordpress using Podman</a>|
 
 ## Tools
@@ -34,7 +34,6 @@ My journey within the tech industry has led me to develop a passion for the clou
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)" />
     <img src="https://img.shields.io/badge/-Podman-5B3EAE?style=for-the-badge&logo=Podman&logoColor=white)" />
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)" />
 </div>
 
 ## Certifications
